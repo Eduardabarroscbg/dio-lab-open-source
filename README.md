@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/3f116c85-b23f-43b4-9f79-934a121ad6d0)
- Contribuindo em um Projeto Open Source no GitHub
+
+https://www.dio.me/ Contribuindo em um Projeto Open Source no GitHub
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
 
 Link do Lab Link do Lab
