@@ -153,6 +153,8 @@ Se este repositório te ajudou, deixe uma estrela e compartilhe com a comunidade
 Além do Profile README, você pode contribuir adicionando novos utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) ou melhorando a seção de documentação na pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). 
 
 💡 Outras maneiras de colaborar:
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta utils, ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta docs.
+Além disso, você também pode contribuir:
 - 🔧 Sugerindo aprimoramentos ou resolvendo **issues**;
 - ⭐ Deixando uma **estrela** para apoiar o projeto!
 
