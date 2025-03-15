@@ -68,7 +68,7 @@ Dominar o básico sobre como contribuir em projetos Open Source no GitHub. 🛠�
 
 ---
 ## 🏆 Desafio: Criando Seu Profile README
-Desafio: Profile README
+
 ##  Desafio: Profile README
 
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
